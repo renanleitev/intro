@@ -73,10 +73,12 @@ O VS Code, de forma nativa, já mostra-se apto a resolver todos os desafios aqui
 
 Os exercícios propostos são divididos em três níveis de dificuldade: Iniciante, Intermediário e Avançado.
 
-1. Iniciante: Os exercícios propostos exigem um conhecimento prévio de lógica de programação e de comandos básicos do Python. 
+1. Iniciante: Os exercícios propostos exigem um conhecimento prévio de lógica de programação e de comandos básicos do Python (print, input, operadores lógicos, operadores matemáticos). 
 2. Intermediário: Os exercícios envolvem listas, dicionários, tuplas, funções, loops e classes, dentre outros conceitos.
 3. Avançado: Os exercícios abordam conceitos de interface gráfica e desenvolvimento de aplicativos e scripts.
 
 Tente resolver os exercícios por conta própria, sem pesquisar ou copiar códigos da Internet. Tente resolvê-los várias vezes, até obter o resultado esperado. Lembre-se, a prática leva a perfeição.
 
-_Em construção...._
+Avançe apenas para o próximo nível de dificuldade quanto concluir todos os exercícios do nível anterior. 
+
+_Em construção..._
