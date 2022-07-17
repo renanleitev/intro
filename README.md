@@ -16,7 +16,7 @@ Para aprender programação, é necessário, antes de tudo, aprender lógica de 
 
 Antes de iniciar os seus estudos, é preciso decidir qual linguagem inicial será utilizada para desenvolver as suas habilidades como programador. Aqui, recomenda-se o uso de [Python](https://www.python.org/), por ser uma linguagem de fácil compreensão, de alto nível e que possui uma ampla gama de funcionalidades, mas os exercícios podem ser utilizados em outra linguagem de sua preferência.
 
-Com o tempo, esse repositório irá utilizar outras linguagens de programação, mas por enquanto utilizaremos Python para os exercícios.
+Com o tempo, esse repositório irá utilizar outras linguagens de programação, mas por enquanto utilizaremos Python para os exercícios. Sinta-se à vontade para apresentar críticas, sugestões e soluções novas para os exercícios apresentados.
 
 <summary><h2>Escolhendo o ambiente de desenvolvimento</h2></summary>
 
