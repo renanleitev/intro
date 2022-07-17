@@ -14,7 +14,7 @@ Os exercícios apresentados são apenas sugestões de problemas, quando não se 
 
 <summary><h2>Primeiros passos</h2></summary>
 
-Para aprender programação, é necessário, antes de tudo, aprender lógica de programação. Pode-se utilizar cursos gratuitos na internet, aqui essa parte não será aprofundada com conceitos abstratos, mas sim a partir de casos práticos, com problemas reais do cotidiano.
+Para aprender programação, é necessário, antes de tudo, aprender lógica de programação. Aqui essa parte não será aprofundada com conceitos abstratos, mas sim a partir de casos práticos, com problemas reais do cotidiano.
 
 Antes de iniciar os seus estudos, é preciso decidir qual linguagem inicial será utilizada para desenvolver as suas habilidades como programador. Aqui, recomenda-se o uso de [Python](https://www.python.org/), por ser uma linguagem de fácil compreensão, de alto nível e que possui uma ampla gama de funcionalidades, mas os exercícios podem ser utilizados em outra linguagem de sua preferência.
 
@@ -59,9 +59,9 @@ O VS Code, de forma nativa, já mostra-se apto a resolver todos os desafios aqui
 15. [Google Search](https://github.com/dumpvn/google-search): Pesquise rapidamente qualquer linha de código no Google.
 16. [Msft-todo-unofficial](https://github.com/TylerLeonhardt/vscode-msft-todo-unofficial): Utilize o MS Todo dentro do Vs Code.
 17. [Pylance](https://github.com/microsoft/pylance-release): Melhora a usabilidade do Python.
-18. [Ppython Manager](https://github.com/DonJayamanne/vscode-python-manager): Permite organizar os ambinetes e pacotes de Python.
+18. [Python Manager](https://github.com/DonJayamanne/vscode-python-manager): Permite organizar os ambinetes e pacotes de Python.
 19. [Python Indent](https://github.com/kbrose/vsc-python-indent): Corrige a identação do seu código em Python.
-20. [Python-snippet-pack-2.0](https://github.com/ericsia/vscode-python-snippet-pack-2.0): Mostra dicas rápidas de Python.
+20. [Python Snippet](https://github.com/ericsia/vscode-python-snippet-pack-2.0): Mostra dicas rápidas de Python.
 21. [Reload](https://github.com/natqe/reload): Insere um botão de recarregar ("reload") na barra de status do VS Code.
 22. [Reopen Closed Tab](https://github.com/xmile1/reopenclosedtab): Reabre a última aba fechada no Vs Code.
 23. [Shortcut Menu Bar](https://github.com/GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension): Adiciona uma série de atalhos para o Vs Code.
