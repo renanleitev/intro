@@ -42,7 +42,33 @@ Antes de iniciar a prática dos exercícios, recomenda-se o uso de extensões no
 
 O VS Code, de forma nativa, já mostra-se apto a resolver todos os desafios aqui propostos, mas a utilização de extensões ajuda a aprimorar a sua experiência em programação. Assim, recomenda-se o uso das seguintes extensões:
 
-_Em construção...._
+1. [Active File Status](https://github.com/sgtsquiggs/vscode-active-file-status): Visualize o caminho do arquivo aberto na barra de status.
+2. [AREPL](https://github.com/Almenon/AREPL-vscode): Visualização prévia do código Python a ser executado.
+3. [autoDocstring](https://github.com/NilsJPWerner/autoDocstring): Para gerar docstrings automaticamente.
+4. [Better Comments](https://github.com/aaron-bond/better-comments): Melhora os comentários do seu código.
+5. [Block Travel](https://github.com/sashaweiss/vscode_block_travel): Navegue por bloco de código usando atalhos de teclado.
+6. [Bookmarks](https://github.com/alefragnani/vscode-bookmarks): Favorite qualquer parte do código.
+7. [Calculator](https://github.com/Lixquid/vscode-calculator): Calcule qualquer operação matemática.
+8. [Clock](https://github.com/compulim/vscode-clock): Visualize o relógio na barra de status.
+9. [Close All](https://github.com/bpasero/vscode-close-all): Feche todos os códigos abertos.
+10. [Code Runner](https://github.com/formulahendry/vscode-code-runner): Teste qualquer código de forma rápida.
+11. [Delete Here](https://github.com/Zippowxk/Deletehere): Delete rapidamente qualquer linha ou termo do código.
+12. [Docs View](https://github.com/mattbierner/vscode-docs-view): Visualize a documentação do Python na barra lateral do Vs Code.
+13. [Error Lens](https://github.com/usernamehw/vscode-error-lens): Visualize erros ao longo do código.
+14. [Filesize](https://github.com/mkxml/vscode-filesize): Visualize o tamanho do arquivo na barra de status.
+15. [Google Search](https://github.com/dumpvn/google-search): Pesquise rapidamente qualquer linha de código no Google.
+16. [Msft-todo-unofficial](https://github.com/TylerLeonhardt/vscode-msft-todo-unofficial): Utilize o MS Todo dentro do Vs Code.
+17. [Pylance](https://github.com/microsoft/pylance-release): Melhora a usabilidade do Python.
+18. [Ppython Manager](https://github.com/DonJayamanne/vscode-python-manager): Permite organizar os ambinetes e pacotes de Python.
+19. [Python Indent](https://github.com/kbrose/vsc-python-indent): Corrige a identação do seu código em Python.
+20. [Python-snippet-pack-2.0](https://github.com/ericsia/vscode-python-snippet-pack-2.0): Mostra dicas rápidas de Python.
+21. [Reload](https://github.com/natqe/reload): Insere um botão de recarregar ("reload") na barra de status do VS Code.
+22. [Reopen Closed Tab](https://github.com/xmile1/reopenclosedtab): Reabre a última aba fechada no Vs Code.
+23. [Shortcut Menu Bar](https://github.com/GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension): Adiciona uma série de atalhos para o Vs Code.
+24. [Sourcery](https://github.com/sourcery-ai/sourcery-vscode): Aprimora a escrita do seu código.
+25. [Status Bar Custom Item](https://github.com/EduardoPires/vscode-status-bar-custom-item): Customiza a barra de status do Vs Code.
+26. [Tabnine](https://github.com/codota/tabnine-vscode): Autocompleta o seu código com sugestões.
+
 
 <summary><h2>Desenvolvendo os primeiros códigos</h2></summary>
 
