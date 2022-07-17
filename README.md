@@ -10,7 +10,7 @@ Esse repositório é dedicado para a comunidade de desenvolvedores brasileiros, 
 
 Na internet, é comum achar sites, fóruns e vídeos que ensinam lógica de programação e a estrutura das linguagens, mas são poucos que estimulam os alunos a praticar os seus conhecimentos e exercitá-los com casos práticos, que resolvam problemas reais.
 
-Os exercícios apresentados são apenas sugestões de problemas, quando não se tem ideia de como exercitar determinado assunto. Fique à vontade para modificá-los, aprimorá-los ou simplificar as soluções.
+Os exercícios aqui propostos servem apenas de inspiração, quando não se tem ideia de como exercitar determinado assunto. Fique à vontade para modificá-los, aprimorá-los ou simplificá-los a seu critério.
 
 <summary><h2>Primeiros passos</h2></summary>
 
@@ -69,7 +69,14 @@ O VS Code, de forma nativa, já mostra-se apto a resolver todos os desafios aqui
 25. [Status Bar Custom Item](https://github.com/EduardoPires/vscode-status-bar-custom-item): Customiza a barra de status do Vs Code.
 26. [Tabnine](https://github.com/codota/tabnine-vscode): Autocompleta o seu código com sugestões.
 
-
 <summary><h2>Desenvolvendo os primeiros códigos</h2></summary>
+
+Os exercícios propostos são divididos em três níveis de dificuldade: Iniciante, Intermediário e Avançado.
+
+1. Iniciante: Os exercícios propostos exigem um conhecimento prévio de lógica de programação e de comandos básicos do Python. 
+2. Intermediário: Os exercícios envolvem listas, dicionários, tuplas, funções, loops e classes, dentre outros conceitos.
+3. Avançado: Os exercícios abordam conceitos de interface gráfica e desenvolvimento de aplicativos e scripts.
+
+Tente resolver os exercícios por conta própria, sem pesquisar ou copiar códigos da Internet. Tente resolvê-los várias vezes, até obter o resultado esperado. Lembre-se, a prática leva a perfeição.
 
 _Em construção...._
