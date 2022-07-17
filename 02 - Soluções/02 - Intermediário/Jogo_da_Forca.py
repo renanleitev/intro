@@ -1,4 +1,4 @@
-forca = 'TRÁGICO'
+forca = 'TRÁGICO' # Escolha qualquer palavra para servir de forca
 count = 0
 chance = len(forca)
 print('Vamos brincar de forca!')
