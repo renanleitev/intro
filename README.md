@@ -14,7 +14,7 @@ Na internet, é comum achar sites, fóruns e vídeos que ensinam lógica de prog
 
 Para aprender programação, é necessário, antes de tudo, aprender lógica de programação. Pode-se utilizar cursos gratuitos na internet, aqui essa parte não será aprofundada com conceitos abstratos, mas sim a partir de casos práticos, com problemas reais do cotidiano.
 
-Antes de iniciar os seus estudos, é preciso decidir qual linguagem inicial será utilizada para desenvolver as suas habilidades como programador. Aqui, recomenda-se o uso de [Python](https://www.python.org/), por ser uma linguagem de fácil compreensão, de alto nível e que possui uma ampla gama de funcionalidades, mas fique livre para utilizar os exercícios em outra linguagem de sua preferência.
+Antes de iniciar os seus estudos, é preciso decidir qual linguagem inicial será utilizada para desenvolver as suas habilidades como programador. Aqui, recomenda-se o uso de [Python](https://www.python.org/), por ser uma linguagem de fácil compreensão, de alto nível e que possui uma ampla gama de funcionalidades, mas os exercícios podem ser utilizados em outra linguagem de sua preferência.
 
 Com o tempo, esse repositório irá utilizar outras linguagens de programação, mas por enquanto utilizaremos Python para os exercícios.
 
