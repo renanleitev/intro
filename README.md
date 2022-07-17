@@ -20,7 +20,7 @@ Com o tempo, esse repositório irá utilizar outras linguagens de programação,
 
 <summary><h2>Escolhendo o ambiente de desenvolvimento</h2></summary>
 
-Para poder desenvolver seus códigos e scripts, recomenda-se o uso do Visual Studio Code (VS Code), disponível gratuitamente em: [https://code.visualstudio.com/](https://code.visualstudio.com/). Há versões para Windows, Linux e Mac OS.
+Para poder desenvolver, recomenda-se o uso do Visual Studio Code [(VS Code)](https://code.visualstudio.com/). Há versões para Windows, Linux e Mac OS.
 
 O VS Code permite que você utilize as principais linguagens de programação existentes no mercado, além de permitir a instalação de extensões que ajudam a aprimorar a sua experiência como usuário e programador. 
 
