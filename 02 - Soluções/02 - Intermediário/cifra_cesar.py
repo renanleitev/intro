@@ -1,10 +1,10 @@
 # Removendo acentos das palavras
-from unidecode import unidecode
+from unidecode import unidecode as ud
 # Criptografando uma palavra
 print('Crie uma cifra de César. Ex: CAMA = DBNB.')
 while True:
     try:
-        palavra = unidecode(str(input('Diga uma palavra: ')).lower().strip())
+        palavra = ud(str(input('Diga uma palavra: ')).lower().strip())
         if palavra.isalpha():
             break
         else:
@@ -40,8 +40,7 @@ for c in palavra_cifra:
 print('\nAgora vamos decifrar uma palavra criptografada.')
 while True:
     try:
-        cripto = unidecode(str(input('Diga a palavra cifrada: '))
-                           .lower().strip())
+        cripto = ud(str(input('Diga a palavra cifrada: ')).lower().strip())
         if cripto.isalpha():
             break
         print('Erro. Digite apenas palavras.')
