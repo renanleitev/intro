@@ -65,4 +65,5 @@ for _ in range(100):
     p = lista[(0 + conta):(len(cripto) + conta)]
     if p != []:
         print(''.join(p))
+        print()
     conta += len(cripto)
