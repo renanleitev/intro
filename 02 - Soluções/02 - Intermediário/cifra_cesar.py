@@ -62,9 +62,8 @@ for _ in range(26):
     conta += 1
 conta = 0
 print('Lista de palavras possíveis com a cifra de César:')
-for _ in range(lista.index(lista[-1])):
-    for _ in range(4):
-        p = lista[(0 + conta):(len(cripto) + conta)]
-        if p != []:
-            print(p)
-        conta += len(cripto)
+for _ in range(100):
+    p = lista[(0 + conta):(len(cripto) + conta)]
+    if p != []:
+        print(p)
+    conta += len(cripto)
