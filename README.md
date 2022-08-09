@@ -68,6 +68,20 @@ O VS Code, de forma nativa, já mostra-se apto a resolver todos os desafios aqui
 24. [Sourcery](https://github.com/sourcery-ai/sourcery-vscode): Aprimora a escrita do seu código.
 25. [Status Bar Custom Item](https://github.com/EduardoPires/vscode-status-bar-custom-item): Customiza a barra de status do Vs Code.
 26. [Tabnine](https://github.com/codota/tabnine-vscode): Autocompleta o seu código com sugestões.
+27. [AskOverflow](https://github.com/sfabio01/askoverflow): Pergunte diretamente do site Stack Overflow.
+28. [AutoHide](https://github.com/sirmspencer/vscode-autohide): Para minimizar automaticamente o terminal e o menu de arquivos do VS Code.
+29. [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag): Para renomear tags HTML automaticamente.
+30. [Easy Snippet](https://github.com/inu1255/vscode-easy-snippet): Transforme qualquer bloco de código em um snippet.
+31. [Insert Unicode](https://github.com/brunnerh/insert-unicode): Insira caracteres especiais e emojis em formato unicode.
+32. [json2csv](https://github.com/khaeransori/vscode-json2csv): Converta arquivos em formato json para formato csv.
+33. [Pip Manager](https://github.com/slightc/pip-manager): Gerencie as suas bibliotecas Python com facilidade.
+34. [Settings Sync](https://github.com/shanalikhan/code-settings-sync): Sincronize as suas configurações do Vs Code.
+35. [SQLite Snippets](https://github.com/rohit-chouhan/sqlite-snippet): Para gerar snippets relacionados ao SQL.
+36. [SQL Viewer](https://github.com/qwtel/sqlite-viewer-vscode): Para visualizar SQL dentro do Vs Code.
+37. [Text Transformer](https://github.com/jackytsu/vscode-text-transformer): Para alterar a formatação do texto com teclas de atalho.
+38. [Vs Code Undo Buttons](https://gitlab.com/kconway/vscode-undo-buttons): Acrescenta botão de desfazer e refazer na interface do Vs Code.
+39. [Vs Code PDF](https://github.com/tomoki1207/vscode-pdfviewer): Para abrir PDFs no VsCode.
+40. [Zoom Bar](https://github.com/wraith13/zoombar-vscode): Para controlar o zoom da interface do Vs Code dentro da barra de status.
 
 <summary><h2>Desenvolvendo os primeiros códigos</h2></summary>
 
